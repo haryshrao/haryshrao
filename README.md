@@ -1,5 +1,5 @@
 # 💫 About Me
-An AI & ML Student based in Kolhapur. I mainly focus on Machine Learning, building projects that help me understand concepts clearly and apply them in practice. I enjoy learning by doing and improving step by step through real implementations. This GitHub is where I share projects that showcase my learning and progress. Everything here is built by me while learning
+An AI & ML Student. I mainly focus on Machine Learning. I enjoy learning by doing and improving step by step through real implementations. This GitHub is where I share projects that showcase my learning and progress. Everything here is built by me while learning
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harishcintre) 
