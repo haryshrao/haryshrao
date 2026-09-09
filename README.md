@@ -30,6 +30,27 @@ An AI & ML Student. I mainly focus on Machine Learning. I enjoy learning by doin
        width="36"
        height="36" />
 </a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg"
+       alt="Scikit-learn"
+       title="Scikit-learn"
+       width="36"
+       height="36" />
+</a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg"
+       alt="PyTorch"
+       title="PyTorch"
+       width="36"
+       height="36" />
+</a>
+<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg"
+       alt="TensorFlow"
+       title="TensorFlow"
+       width="36"
+       height="36" />
+</a>
 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" />
@@ -45,7 +66,8 @@ An AI & ML Student. I mainly focus on Machine Learning. I enjoy learning by doin
 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" />
-</a>
+
+
 
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" />
@@ -61,6 +83,20 @@ An AI & ML Student. I mainly focus on Machine Learning. I enjoy learning by doin
 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" />
+</a>
+<a href="https://huggingface.co/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/huggingface"
+       alt="Hugging Face"
+       title="Hugging Face"
+       width="36"
+       height="36" />
+</a>
+<a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg"
+       alt="Terraform"
+       title="Terraform"
+       width="36"
+       height="36" />
 </a>
 </p>
 
