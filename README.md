@@ -120,8 +120,10 @@ An AI & ML Student. I mainly focus on Machine Learning. I enjoy learning by doin
 </picture>
 </a>
 
+</p>
 
-### ✍️ Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-
+### Quote
+<p align="left">
+  
+![Quote](https://readme-daily-quotes.vercel.app/api?theme=transparent)
 </p>
